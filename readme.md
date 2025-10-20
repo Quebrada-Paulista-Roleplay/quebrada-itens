@@ -13,6 +13,7 @@ Tudo organizado em arquivos individuais para fácil consulta e atualização.
 | [🏢 Facções](./facs.md) | Lista completa de todas as **facções e organizações** da cidade. |
 | [🎒 Itens](./itens.md) | Tabela detalhada de **itens utilizáveis, armas e recursos**. |
 | [🚗 Veículos](./veiculos.md) | Relação completa de **veículos civis, de trabalho e faccionados**. 
+| [🧩 Grupos e Hierarquias](./grupos.md) | Estrutura completa de **grupos, cargos, salários e permissões**. |
 
 ---
 
